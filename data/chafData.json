@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "name": "Mohamad Abdulla",
+    "picture":"https://static.vecteezy.com/system/resources/previews/005/604/210/original/a-woman-chef-wearing-a-white-coat-red-apron-and-a-kitchen-hood-on-her-head-while-smiling-free-vector.jpg",
+    "bio": {
+      "description": "John is a passionate chef with over 10 years of experience. He specializes in Italian cuisine and has won several awards for his signature dishes.",
+      "location": "New York, USA",
+      "favorite_places": [
+        "Rome",
+        "Paris",
+        "Tokyo"
+      ],
+      "marital_status": "Married",
+      "hobbies": [
+        "Traveling",
+        "Reading",
+        "Playing Chess"
+      ]
+    },
+    "methods": " This method involves cooking food in boiling water. It is often used to cook pasta, vegetables, and eggs. The food is fully submerged in the boiling water until it is cooked through.",
+    "likes": 1000,
+    "recipes": 50,
+    "experience": 10,
+    "specialties": [
+      {
+        "name": "Pasta",
+        "rating": 3,
+        "methods": "Cooking food in vacuum-sealed bags at low temperatures in a water bath, typically used for meats, fish, and eggs",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "John's homemade pasta dishes are a must-try. He uses fresh ingredients and his own special sauce to make each dish unique."
+      },
+      {
+        "name": "Pizza",
+        "rating": 4,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "John's pizza is the best in town. He makes his own dough and uses only the freshest toppings for each pie."
+      },
+      {
+        "name": "Tiramisu",
+        "rating": 5,
+        "methods": "Cooking food in vacuum-sealed bags at low temperatures in a water bath, typically used for meats, fish, and eggs",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "John's tiramisu is the perfect end to any meal. His secret ingredient is a touch of espresso, which gives the dessert a rich flavor."
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Tanvir Smith",
+    "picture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+    "bio": {
+      "description": "Jane is a talented chef who specializes in Asian cuisine. She has studied in Japan and Thailand and incorporates authentic flavors into her dishes.",
+      "location": "Los Angeles, USA",
+      "favorite_places": [
+        "Bangkok",
+        "Kyoto",
+        "Hawaii"
+      ],
+      "marital_status": "Single",
+      "hobbies": [
+        "Hiking",
+        "Photography",
+        "Playing Guitar"
+      ]
+    },
+    "methods":"This method involves cooking food in an oven at high temperatures. It is often used for meats, vegetables, and even fruits. The food is placed in a roasting pan and cooked at a high temperature until it is cooked through and crispy on the outside.",
+    "likes": 1500,
+    "recipes": 30,
+    "experience": 7,
+    "specialties": [
+      {
+        "name": "Pad Thai",
+        "rating": 3,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's Pad Thai is the real deal. She uses tamarind paste, fish sauce, and fresh lime juice to create the perfect balance of sweet, sour, and savory flavors."
+      },
+      {
+        "name": "Sushi",
+        "rating": 2,
+        "methods": "Cooking food in vacuum-sealed bags at low temperatures in a water bath, typically used for meats, fish, and eggs",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's sushi is a work of art. She uses only the freshest fish and hand-crafts each roll to perfection."
+      },
+      {
+        "name": "Curry",
+        "rating": 4,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's curry is a customer favorite. She uses a blend of spices and fresh herbs to create a fragrant and flavorful sauce that pairs perfectly with rice."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Jane Smith",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYWLNo1JCsKJ0YPlRQwxYTVKNfGp_ajosstQ&usqp=CAU",
+    "bio": {
+      "description": "Jane is a talented chef who specializes in Asian cuisine. She has studied in Japan and Thailand and incorporates authentic flavors into her dishes.",
+      "location": "Los Angeles, USA",
+      "favorite_places": [
+        "Bangkok",
+        "Kyoto",
+        "Hawaii"
+      ],
+      "marital_status": "Single",
+      "hobbies": [
+        "Hiking",
+        "Photography",
+        "Playing Guitar"
+      ]
+    },
+    "methods": " This method involves cooking food in boiling water. It is often used to cook pasta, vegetables, and eggs. The food is fully submerged in the boiling water until it is cooked through.",
+    "likes": 1500,
+    "recipes": 30,
+    "experience": 7,
+    "specialties": [
+      {
+        "name": "Pad Thai",
+        "rating": 3,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's Pad Thai is the real deal. She uses tamarind paste, fish sauce, and fresh lime juice to create the perfect balance of sweet, sour, and savory flavors."
+      },
+      {
+        "name": "Sushi",
+        "rating": 4,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's sushi is a work of art. She uses only the freshest fish and hand-crafts each roll to perfection."
+      },
+      {
+        "name": "Curry",
+        "rating": 5,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's curry is a customer favorite. She uses a blend of spices and fresh herbs to create a fragrant and flavorful sauce that pairs perfectly with rice."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Jane Smith",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYWLNo1JCsKJ0YPlRQwxYTVKNfGp_ajosstQ&usqp=CAU",
+    "bio": {
+      "description": "Jane is a talented chef who specializes in Asian cuisine. She has studied in Japan and Thailand and incorporates authentic flavors into her dishes.",
+      "location": "Los Angeles, USA",
+      "favorite_places": [
+        "Bangkok",
+        "Kyoto",
+        "Hawaii"
+      ],
+      "marital_status": "Single",
+      "hobbies": [
+        "Hiking",
+        "Photography",
+        "Playing Guitar"
+      ]
+    },
+    "methods":"This method involves cooking food in an oven at high temperatures. It is often used for meats, vegetables, and even fruits. The food is placed in a roasting pan and cooked at a high temperature until it is cooked through and crispy on the outside.",
+    "likes": 1500,
+    "recipes": 30,
+    "experience": 7,
+    "specialties": [
+      {
+        "name": "Pad Thai",
+        "rating": 4,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's Pad Thai is the real deal. She uses tamarind paste, fish sauce, and fresh lime juice to create the perfect balance of sweet, sour, and savory flavors."
+      },
+      {
+        "name": "Sushi",
+        "rating": 5,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's sushi is a work of art. She uses only the freshest fish and hand-crafts each roll to perfection."
+      },
+      {
+        "name": "Curry",
+        "rating": 4,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's curry is a customer favorite. She uses a blend of spices and fresh herbs to create a fragrant and flavorful sauce that pairs perfectly with rice."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Jane Smith",
+    "picture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+    "bio": {
+      "description": "Jane is a talented chef who specializes in Asian cuisine. She has studied in Japan and Thailand and incorporates authentic flavors into her dishes.",
+      "location": "Los Angeles, USA",
+      "favorite_places": [
+        "Bangkok",
+        "Kyoto",
+        "Hawaii"
+      ],
+      "marital_status": "Single",
+      "hobbies": [
+        "Hiking",
+        "Photography",
+        "Playing Guitar"
+      ]
+    },
+    "methods": "This method involves cooking food in a small amount of oil over high heat. It is often used for stir-fries and for cooking vegetables and meats. The food is quickly cooked in the hot oil, while being constantly stirred, until it is cooked through and browned on the outside.",
+    "likes": 1500,
+    "recipes": 30,
+    "experience": 7,
+    "specialties": [
+      {
+        "name": "Pad Thai",
+        "rating": 3,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's Pad Thai is the real deal. She uses tamarind paste, fish sauce, and fresh lime juice to create the perfect balance of sweet, sour, and savory flavors."
+      },
+      {
+        "name": "Sushi",
+        "rating": 4,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's sushi is a work of art. She uses only the freshest fish and hand-crafts each roll to perfection."
+      },
+      {
+        "name": "Curry",
+        "rating": 5,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's curry is a customer favorite. She uses a blend of spices and fresh herbs to create a fragrant and flavorful sauce that pairs perfectly with rice."
+      }
+     
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Jane Smith",
+    "picture": "https://static.vecteezy.com/system/resources/previews/005/604/210/original/a-woman-chef-wearing-a-white-coat-red-apron-and-a-kitchen-hood-on-her-head-while-smiling-free-vector.jpg",
+    "bio": {
+      "description": "Jane is a talented chef who specializes in Asian cuisine. She has studied in Japan and Thailand and incorporates authentic flavors into her dishes.",
+      "location": "Los Angeles, USA",
+      "favorite_places": [
+        "Bangkok",
+        "Kyoto",
+        "Hawaii"
+      ],
+      "marital_status": "Single",
+      "hobbies": [
+        "Hiking",
+        "Photography",
+        "Playing Guitar"
+      ]
+    },
+    "methods":"This method involves cooking food in an oven at high temperatures. It is often used for meats, vegetables, and even fruits. The food is placed in a roasting pan and cooked at a high temperature until it is cooked through and crispy on the outside.",
+    "likes": 1500,
+    "recipes": 30,
+    "experience": 7,
+    "specialties": [
+      {
+        "name": "Pad Thai",
+        "rating": 5,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's Pad Thai is the real deal. She uses tamarind paste, fish sauce, and fresh lime juice to create the perfect balance of sweet, sour, and savory flavors."
+      },
+      {
+        "name": "Sushi",
+        "rating": 4,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's sushi is a work of art. She uses only the freshest fish and hand-crafts each roll to perfection."
+      },
+      {
+        "name": "Curry",
+        "rating": 4,
+        "methods": "Cooking food using smoke and low heat, typically used for meats, fish, and vegetables.",
+        "image_url": "https://www.foodandwine.com/thmb/4Bt2yPC5El7vUBWZm_uFXD_vOyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/California-Sushi-Rolls-FT-RECIPE0123-efc7744ed3e642c7864788a7c227facb.jpg",
+        "description": "Jane's curry is a customer favorite. She uses a blend of spices and fresh herbs to create a fragrant and flavorful sauce that pairs perfectly with rice."
+      }
+    ]
+  }
+]
